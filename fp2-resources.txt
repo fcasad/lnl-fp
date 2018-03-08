@@ -1,0 +1,26 @@
+https://github.com/hemanth/functional-programming-jargon
+
+https://www.youtube.com/watch?v=BMUiFMZr7vk
+
+http://reactivex.io/learnrx/
+
+https://www.youtube.com/watch?v=m3svKOdZijA
+
+https://github.com/getify/Functional-Light-JS
+
+http://james-forbes.com/?/posts/versatility-of-array-methods
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
+
+https://github.com/sanctuary-js/sanctuary-type-classes
+
+http://www.mattgreer.org/articles/promises-in-wicked-detail/#promises-have-state
+
+https://jlongster.com/Transducers.js--A-JavaScript-Library-for-Transformation-of-Data
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ topics not in this LNL
+
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
+
+

@@ -1,0 +1,27 @@
+👽 Fantastic or Funky? Intro to Functional Programming - by Farren 👽
+
+"All told, a monad in X is just a monoid in the category of endofunctors of X, with product × replaced by composition of endofunctors and unit set by the identity endofunctor" 
+  - Saunders Mac Lane, in Categories for the Working Mathematician
+
+"Functional programmer: (noun) One who names variables 'x', names functions 'f', and names code patterns 'zygohistomorphic prepromorphism'" 
+  - James Iry, author of Brief and mostly incorrect history of programming languages 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+note: JavaScript is 'multi-paradigm' so we can write code in a functional style (as well as OO, procedural...)
+
+features of a functional language:
+ 1. functions are 1st class - naked functions, functions as variables
+ 2. higher order functions - functions taking function as arg (callback), or returning function (closure)
+ 3. immutability - returning new object rather than modifying an existing (no shared state)
+ 4. recursion - rather than looping (true FP languages have optimized TCR)
+ 5. algabraic types - rather than control flow ie: 'if/else', 'null checks', 'try/catch'
+note: many FP languages are statically typed ie Haskell/Elm. 
+
+reasons to prefer functional programming:
+ 1. easier to read - declarative vs imperative
+ 2. easier to reason about - referential transparency
+ 3. easier to test - less mocking, simple input => output
+ 4. easier to maintain - little or no mutable state, high code reuse
+ 5. easier to optimise - memoization, run processes in parallel
+note: some of these are possible with OO as well, procedural not so much

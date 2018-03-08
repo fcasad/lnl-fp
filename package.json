@@ -1,0 +1,28 @@
+{
+  "name": "LNL-FP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fp10-composing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcasad/lnl-fp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcasad/lnl-fp/issues"
+  },
+  "homepage": "https://github.com/fcasad/lnl-fp#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "fluture": "^8.0.2",
+    "intl": "^1.2.5",
+    "ramda": "^0.25.0",
+    "ramda-fantasy": "^0.8.0"
+  },
+  "devDependencies": {}
+}
